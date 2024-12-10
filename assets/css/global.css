@@ -8,7 +8,11 @@ h1 {
 }
 
 body {
+    display: grid;
     background-color: #f6f8fc;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
 }
 
 .content {
