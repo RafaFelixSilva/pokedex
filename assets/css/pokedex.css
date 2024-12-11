@@ -116,6 +116,7 @@
 .pokemon-card {
     width: 300px;
     text-align: center;
+    text-transform: capitalize;
     margin: 0 auto;
     padding: 20px;
     background-color: #f8f8f8;
